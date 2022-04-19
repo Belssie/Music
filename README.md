@@ -2,7 +2,7 @@
 ## Description
 REST API with Spring Boot & Spring Data JPA
 
-Consisting of information about music:
+Consisting of music data:
 - title;
 - author (first/last name);
 - genre;
