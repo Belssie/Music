@@ -8,7 +8,7 @@ Consisting of music data:
 - genre;
 ## Technologies
 The project is created on Spring Tools Suite 4/Java with MySQL database and is used for pure testing on:
-- GET, POST, PUT, DELETE operations on the database;
+- GET, POST, PUT, DELETE operations;
 - JPQL queries;
 - scheduler;
 - mapping;
