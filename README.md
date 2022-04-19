@@ -11,7 +11,7 @@ The project is created for pure testing on:
 - mapping;
 - annotations;
 - logging;
-The project consists of and uses different technologies, such as:
+#The project consists of and uses different technologies, such as:
 - Spring boot;
 - Maven;
 - Postman;
