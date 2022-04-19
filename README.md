@@ -2,7 +2,10 @@
 ## Description
 REST API with Spring Boot & Spring Data JPA
 
-Consisting of information about music - title, author and genre.
+Consisting of information about music:
+- title;
+- author (first/last name);
+- genre;
 ## Technologies
 The project is created on Spring Tools Suite 4/Java with MySQL database and is used for pure testing on:
 - GET, POST, PUT, DELETE operations on the database;
